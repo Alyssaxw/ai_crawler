@@ -1,0 +1,1394 @@
+{
+  "tools": [
+    {
+      "name": "ChatGPT APP",
+      "description": "OpenAI推出的AI聊天机器人和智能对话工具",
+      "url": "https://ai-bot.cn/app/10389.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/bc/e0/98bce0c1-cd6a-3f82-1ad2-5d656152f151/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "DeepSeek APP",
+      "description": "深度求索公司推出的AI智能助手",
+      "url": "https://ai-bot.cn/app/38498.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/a0/5f/8ea05f59-71d1-e2fd-a81c-f6848f539a7d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/492x0w.webp"
+    },
+    {
+      "name": "豆包APP",
+      "description": "字节跳动推出的AI聊天机器人",
+      "url": "https://ai-bot.cn/app/10285.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/dd/71/5edd71e7-a752-b57d-7a35-47cac58aaeeb/AppIcon-0-1x_U007epad-0-7-0-85-220-0.png/217x0w.webp"
+    },
+    {
+      "name": "智谱清言APP",
+      "description": "智谱AI推出的智能对话应用，基于ChatGLM大模型",
+      "url": "https://ai-bot.cn/app/10282.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/82/e9/1382e91b-362d-21c3-f06e-b8664cbebf13/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "Kimi智能助手APP",
+      "description": "月之暗面推出的支持超长上下文的AI聊天助手",
+      "url": "https://ai-bot.cn/app/10281.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_54358218_1711352555/256"
+    },
+    {
+      "name": "新问小白APP",
+      "description": "元石科技公司推出的AI智能助手",
+      "url": "https://ai-bot.cn/app/42185.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/5f/5b/e05f5be5-c68f-1942-4da9-3fd98933049e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/434x0w.webp"
+    },
+    {
+      "name": "文小言APP",
+      "description": "百度推出的AI聊天机器人",
+      "url": "https://ai-bot.cn/app/10284.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/3d/ce/873dceca-ff62-21ee-05ea-b9ea21d7ec0f/AppIcon-0-1x_U007epad-0-0-85-220-0.png/217x0w.webp"
+    },
+    {
+      "name": "通义APP",
+      "description": "阿里推出的大模型聊天助手",
+      "url": "https://ai-bot.cn/app/10279.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_54335182_1709967789/256"
+    },
+    {
+      "name": "讯飞星火APP",
+      "description": "科大讯飞推出的认知智能大模型和AI聊天机器人",
+      "url": "https://ai-bot.cn/app/10278.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/92/b6/3592b6bc-1db0-c4a5-5f9a-f96b2bcda4af/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "Wow APP",
+      "description": "美团旗下推出的AI聊天和虚拟社交软件",
+      "url": "https://ai-bot.cn/app/10460.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/69/16/e969161f-d1e1-b8c8-83a5-792a4a6328ff/AppIcon-1x_U007emarketing-0-2-0-sRGB-85-220.jpeg/246x0w.webp"
+    },
+    {
+      "name": "猫箱APP（原话炉）",
+      "description": "字节跳动推出的AI社交对话APP",
+      "url": "https://ai-bot.cn/app/10308.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fd/e8/d1fde829-7fc5-08ca-1d9d-aa3a75ffbd75/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "天工AI",
+      "description": "昆仑万维推出的大模型助手和AI搜索引擎",
+      "url": "https://ai-bot.cn/app/10310.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ff/11/aeff11e6-5a54-cd52-c1a8-0a8ee1b20169/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Microsoft Copilot APP",
+      "description": "微软推出的AI聊天机器人和对话助手",
+      "url": "https://ai-bot.cn/app/10397.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/6b/c3/c66bc3f0-3128-4207-c782-52d4965843e9/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "紫东太初APP",
+      "description": "中科院和武智院推出的多模态AI聊天机器人",
+      "url": "https://ai-bot.cn/app/10454.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/69/01/a4690177-c9a8-5f08-040d-6f683be49db4/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "腾讯元宝APP",
+      "description": "腾讯推出的AI智能助手应用",
+      "url": "https://ai-bot.cn/app/12943.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/0f/11/970f11b9-307a-e22c-12d6-c4abd211963b/AppIcon-1x_U007ephone-0-0-P3-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "Character AI APP",
+      "description": "自定义AI角色对话聊天平台",
+      "url": "https://ai-bot.cn/app/10417.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/34/a8/b434a8b2-edc1-f582-a7f9-de7aef562c79/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "未伴APP",
+      "description": "腾讯推出的AI虚拟伴侣应用",
+      "url": "https://ai-bot.cn/app/10461.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/45/69/414569c1-544a-54b9-60bf-e2a9b533da3e/AppIcon-Virtualidol-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "Claude APP",
+      "description": "Anthropic推出的AI聊天机器人",
+      "url": "https://ai-bot.cn/app/11821.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/30/82/10308203-7f4d-a888-3a9d-86ab5d01fb8e/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "度豆APP",
+      "description": "百度推出的仿真人AI社交APP",
+      "url": "https://ai-bot.cn/app/14259.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/60/e2/7160e2ce-9755-1521-02d3-73da81e6bd75/AppIcon-0-1x_U007ephone-0-0-0-sRGB-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "海螺AI APP",
+      "description": "MiniMax推出的AI智能助手",
+      "url": "https://ai-bot.cn/app/10283.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_54326224_1709431163/256"
+    },
+    {
+      "name": "Poe APP",
+      "description": "Quora官方推出的AI聊天机器人",
+      "url": "https://ai-bot.cn/app/10395.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/0c/56/7c0c5601-6e7c-fb19-c9d4-57c715305cee/AppIcon_Poe-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "讯飞晓医APP",
+      "description": "科大讯飞推出的AI健康助手",
+      "url": "https://ai-bot.cn/app/10660.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/ab/69/aaab6977-be98-031e-7460-e2c77429333b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "小悟空APP",
+      "description": "抖音推出的大模型AI工具箱应用",
+      "url": "https://ai-bot.cn/app/10472.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/82/71/72/827172b3-56f9-eb6a-638a-3e477c5821ef/AppIcon-News-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "独响APP",
+      "description": "你的AI朋友圈，虚拟AI角色+轻笔记",
+      "url": "https://ai-bot.cn/app/10421.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/f3/59/e0f359db-7e04-0063-f9c7-1bee537db042/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "筑梦岛APP",
+      "description": "阅文集团推出的AI虚拟角色聊天对话应用",
+      "url": "https://ai-bot.cn/app/10462.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/b9/01/a5b901c2-e79f-65b8-a60b-aadf45039611/AppIcon-1x_U007ephone-0-0-0-85-220-0.jpeg/246x0w.webp"
+    },
+    {
+      "name": "星野APP",
+      "description": "MiniMax推出的AI虚拟社交和角色对话平台",
+      "url": "https://ai-bot.cn/app/10288.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/10/46/bc1046ac-cbb8-6291-acae-55413d44142b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "AiU APP",
+      "description": "聆心智能推出的AI虚拟角色聊天社区",
+      "url": "https://ai-bot.cn/app/10458.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/2e/ab/672eab01-d4b8-1e15-b7f6-f0d1c102a84d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "万话APP",
+      "description": "百度推出的虚拟AI角色对话和社交应用",
+      "url": "https://ai-bot.cn/app/10463.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/e3/a2/cae3a23a-48b0-9c5f-ba93-f2e16ac2822b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "冒泡鸭APP",
+      "description": "阶跃星辰推出的智能角色对话助手",
+      "url": "https://ai-bot.cn/app/10286.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/e9/67/32e967e0-fbbd-318b-830d-25eeac36468c/AppIcon-0-0-1x_U007ephone-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "唠唠APP",
+      "description": "顺网科技推出的AI虚拟陪伴应用",
+      "url": "https://ai-bot.cn/app/10643.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://ai-bot.cn/wp-content/uploads/2024/04/shunwangai-icon.png"
+    },
+    {
+      "name": "HuggingChat APP",
+      "description": "Hugging Face推出的AI聊天机器人APP",
+      "url": "https://ai-bot.cn/app/11389.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/6c/95/006c9562-1583-ae7c-f8de-07a93655fd01/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/230x0w.webp"
+    },
+    {
+      "name": "X Eva APP",
+      "description": "小冰智能推出的AI克隆人对话平台",
+      "url": "https://ai-bot.cn/app/10287.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/67/a0/b467a074-3550-118b-f0cd-b4d36031b746/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "蓝心千询APP",
+      "description": "vivo推出的基于蓝心大模型的智能AI助手应用",
+      "url": "https://ai-bot.cn/app/10474.html?menu-id=66&mininav-id=10334",
+      "category": "AI聊天机器人",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/8f/1f/738f1fb7-7476-7cdf-111e-59a102925ad7/AppIcon-0-0-1x_U007ephone-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "Replika APP",
+      "description": "人工智能聊天伴侣和朋友",
+      "url": "https://ai-bot.cn/app/10422.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/5d/d5/5a5dd536-819a-3158-becf-306169dae8b4/AppIcon-Replika-1x_U007ephone-0-0-85-220-0.jpeg/246x0w.webp"
+    },
+    {
+      "name": "小侃星球APP",
+      "description": "百度推出的虚拟人聊天应用",
+      "url": "https://ai-bot.cn/app/10309.html?menu-id=66&mininav-id=10334",
+      "category": "AI虚拟社交",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/d0/93/5cd093ae-904c-df38-6817-00b7971df6a1/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/230x0w.webp"
+    },
+    {
+      "name": "Luma AI APP",
+      "description": "AI 3D捕捉、扫描和建模生成软件",
+      "url": "https://ai-bot.cn/app/10674.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d5/76/a7/d576a7b1-f51d-b577-99a8-3c43bfb9c990/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "星绘APP",
+      "description": "抖音推出的AI相机和写真生成APP",
+      "url": "https://ai-bot.cn/app/11794.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/cc/7e/f4cc7e4b-1689-a066-c36e-a8a12c76262a/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "即梦AI APP",
+      "description": "字节跳动抖音旗下的剪映推出的AI图片和视频创作应用",
+      "url": "https://ai-bot.cn/app/15155.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/87/ec/6487ec43-425c-687a-9bea-c1a7e716b771/AppIcon-0-0-1x_U007ephone-0-85-220.png/492x0w.webp"
+    },
+    {
+      "name": "青柠设计APP",
+      "description": "AI海报设计和图片编辑工具",
+      "url": "https://ai-bot.cn/app/10816.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/a7/86/ffa786e1-c7da-4c54-9a12-31eec51462d3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "佐糖APP",
+      "description": "AI智能抠图修图神器",
+      "url": "https://ai-bot.cn/app/10381.html?menu-id=66&mininav-id=10334",
+      "category": "AI智能抠图",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/63/88/02/638802b8-81c8-a56d-274b-7db81fab1539/AppIcon-0-0-85-220-0-0-4-0-2x.png/217x0w.webp"
+    },
+    {
+      "name": "Remini APP",
+      "description": "AI修图和图像质量提升软件",
+      "url": "https://ai-bot.cn/app/10402.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/59/0a/25590a0e-7100-dc2f-4f57-c4c42d27c044/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "捏Ta APP",
+      "description": "AI角色绘制和二次元共创社区",
+      "url": "https://ai-bot.cn/app/10405.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/db/5a/59db5ad7-b01e-7405-ebf4-e19a369d0885/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "一键抠图APP",
+      "description": "一键智能抠图P图神器",
+      "url": "https://ai-bot.cn/app/10379.html?menu-id=66&mininav-id=10334",
+      "category": "AI智能抠图",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b3/86/02b3868b-ecf1-c2f3-3105-88778b49dbf7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "美图设计室APP",
+      "description": "图文带货、海报制作必备AI神器",
+      "url": "https://ai-bot.cn/app/10377.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/d6/4c/74d64c7b-0c7a-fb50-edbf-ffb7e12c8386/AppIcon-0-0-1x_U007ephone-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "醒图APP",
+      "description": "字节旗下推出的AI修图软件",
+      "url": "https://ai-bot.cn/app/10626.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/cf/95/facf95df-ffc5-a39b-1f4d-3037c0684839/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Leonardo.Ai APP",
+      "description": "AI图像生成和绘画软件",
+      "url": "https://ai-bot.cn/app/10670.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/28/42/b9284264-4a5f-4e52-500d-40bd05ca3365/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "妙鸭相机APP",
+      "description": "AI生成专业质感个人写真照片",
+      "url": "https://ai-bot.cn/app/10380.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/98/13/3a981329-62cf-8eaf-f324-46252ef1a21a/AppIcon-1x_U007ephone-0-10-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "滴墨AI APP",
+      "description": "AI生成绘画创作社区",
+      "url": "https://ai-bot.cn/app/10419.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/8a/c2/578ac206-7855-b081-7c1a-b1d2271f7ca9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "BigJPG APP",
+      "description": "AI图片无损放大软件",
+      "url": "https://ai-bot.cn/app/10575.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/23/22/192322f7-f545-8eab-9b13-bea0469c8885/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "无界AI APP",
+      "description": "国内领先的AIGC绘画和图像创作平台",
+      "url": "https://ai-bot.cn/app/10420.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/bd/23/bdbd2331-3cd0-ec8b-9f7c-8f95bb22ffdb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "Photoleap APP",
+      "description": "AI创意图片编辑和图像生成软件",
+      "url": "https://ai-bot.cn/app/10671.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/14/bb/7114bb00-0ec2-5c99-7dc3-233b26a4bed8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"
+    },
+    {
+      "name": "6pen APP",
+      "description": "毛线球科技推出的AI绘画和图像生成软件",
+      "url": "https://ai-bot.cn/app/10406.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/c5/d6/d3c5d602-a20b-8331-9482-b29d3f827e1a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "Photoroom APP",
+      "description": "AI图片背景移除和编辑软件",
+      "url": "https://ai-bot.cn/app/10403.html?menu-id=66&mininav-id=10334",
+      "category": "AI智能抠图",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/61/95/42/619542c1-0773-e9d8-c02d-d1c485f6dd66/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Pixelcut APP",
+      "description": "AI图片编辑器，一键抠图和抹除",
+      "url": "https://ai-bot.cn/app/10623.html?menu-id=66&mininav-id=10334",
+      "category": "AI智能抠图",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/b8/5e/68b85e0b-0d9b-75ec-1411-016299c7dde2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Lensa APP",
+      "description": "AI将自拍照片生成不同艺术风格的头像",
+      "url": "https://ai-bot.cn/app/10407.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/f0/60/9cf060fb-2297-ed3d-9e19-3ecde70c36e5/AppIcon-0-0-1x-5-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "WHEE APP",
+      "description": "美图推出的AI图像生成工具",
+      "url": "https://ai-bot.cn/app/10416.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/ef/4c/64ef4cca-036f-0409-affa-8d192e8e19a9/AppIcon-1x_U007ephone-0-10-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "TouchRetouch APP",
+      "description": "AI图像擦除软件，快速去除照片中的多余元素和对象",
+      "url": "https://ai-bot.cn/app/10624.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/7e/3b/c27e3b63-216f-a83c-7032-bfa9bca652b3/AppIconBasic-0-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Blend APP",
+      "description": "AI图片背景移除和物体消除应用",
+      "url": "https://ai-bot.cn/app/10625.html?menu-id=66&mininav-id=10334",
+      "category": "AI智能抠图",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/83/0a/b3830a97-6980-3053-202f-a151cb13f784/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Knockout APP",
+      "description": "AI智能抠图和图片编辑软件",
+      "url": "https://ai-bot.cn/app/10648.html?menu-id=66&mininav-id=10334",
+      "category": "AI智能抠图",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/63/4f/ef/634fef68-dc76-a5fe-f623-b1fa8b225774/ProKnockOut-Cut_Paste_Photos.png/246x0w.webp"
+    },
+    {
+      "name": "改图鸭APP",
+      "description": "AI图片处理和编辑软件",
+      "url": "https://ai-bot.cn/app/10378.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/4b/5e/464b5ee8-6554-ec17-6012-3b9b72d5b620/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/217x0w.webp"
+    },
+    {
+      "name": "美图秀秀APP",
+      "description": "美图推出的AI修图剪片神器",
+      "url": "https://ai-bot.cn/app/10818.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/80/63/c980631e-e53e-3924-89f9-addcce48c908/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "SnapEdit APP",
+      "description": "AI图像对象移除和编辑工具",
+      "url": "https://ai-bot.cn/app/10665.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/2f/5a/202f5a7c-a821-c9d7-4920-81a06191ee6a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "如果相机APP",
+      "description": "AI写真工具，提供7大类别、200多组主题",
+      "url": "https://ai-bot.cn/app/18026.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/f0/22/9ef02200-eb6b-8d69-c544-75cc76693c9b/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/492x0w.webp"
+    },
+    {
+      "name": "可灵AI APP",
+      "description": "快手推出的AI创意生产力平台",
+      "url": "https://ai-bot.cn/app/29505.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/97/b2/7c97b268-6e15-2046-b181-ff8eb4d6c5a9/AppIconKlingapp-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/460x0w.webp"
+    },
+    {
+      "name": "即梦AI APP",
+      "description": "字节跳动抖音旗下的剪映推出的AI图片和视频创作应用",
+      "url": "https://ai-bot.cn/app/15155.html?menu-id=66&mininav-id=10334",
+      "category": "AI图像设计",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/87/ec/6487ec43-425c-687a-9bea-c1a7e716b771/AppIcon-0-0-1x_U007ephone-0-85-220.png/492x0w.webp"
+    },
+    {
+      "name": "Reface APP",
+      "description": "AI视频换脸软件，超1亿次下载",
+      "url": "https://ai-bot.cn/app/10666.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://ai-bot.cn/wp-content/uploads/2024/04/reface-app-icon.png"
+    },
+    {
+      "name": "皮皮动画APP",
+      "description": "AI一键生成动画短片",
+      "url": "https://ai-bot.cn/app/10765.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/f8/81/e3f881f9-40cc-4781-0281-393a8e6f3bd5/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "剪映APP",
+      "description": "抖音旗下全能好用的智能视频剪辑工具",
+      "url": "https://ai-bot.cn/app/10296.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_53412811_1711338888/256"
+    },
+    {
+      "name": "秒剪APP",
+      "description": "微信官方推出的智能视频剪辑和制作APP",
+      "url": "https://ai-bot.cn/app/10295.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/25/36/6f253689-3b7c-4c2d-76ea-f680afc0b171/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/230x0w.webp"
+    },
+    {
+      "name": "度加剪辑APP",
+      "description": "百度推出的AI视频编辑APP",
+      "url": "https://ai-bot.cn/app/10291.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/c3/07/83c307a0-3ac2-ee48-fbfb-232501eb11cd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "Runway APP",
+      "description": "AI视频生成和图像生成应用",
+      "url": "https://ai-bot.cn/app/10673.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/12/cb/8b12cb29-f18e-50dd-03f5-5e3d4a7e45d6/AppIcon-0-0-1x_U007ephone-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "DreamFace APP",
+      "description": "AI将静态照片转化为动态视频",
+      "url": "https://ai-bot.cn/app/10647.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/b8/42/b3b8420b-5d1b-4617-a495-66689880ef89/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "必剪APP",
+      "description": "B站官方推出的视频剪辑应用，UP主都在用的剪辑神器",
+      "url": "https://ai-bot.cn/app/11048.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/4c/fe/214cfecd-64bf-a2c6-6bd3-b6a0203c815f/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "invideo AI APP",
+      "description": "AI文本到视频生成软件",
+      "url": "https://ai-bot.cn/app/10815.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/9f/c9/5d9fc9c4-26d9-dab6-6f80-1cd0f7632655/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "开拍APP",
+      "description": "美图推出的AI口播视频制作APP",
+      "url": "https://ai-bot.cn/app/10290.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_54301763_1711015564/256"
+    },
+    {
+      "name": "DreamAvatar APP",
+      "description": "美图推出的AI数字人生成软件",
+      "url": "https://ai-bot.cn/app/10408.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/41/15/504115fc-ac10-157d-19e6-6b0c23e2e3d0/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Kaiber APP",
+      "description": "AI视频和动画生成软件",
+      "url": "https://ai-bot.cn/app/10731.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/14/e3/ab14e3c4-2d72-e743-d86b-bb4ab1bc3ddd/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/246x0w.webp"
+    },
+    {
+      "name": "来画APP",
+      "description": "AI动画和数字人视频创作平台",
+      "url": "https://ai-bot.cn/app/10732.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/b2/41/6cb2414d-b85d-29be-53af-ce20f160c9a8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "Wink APP",
+      "description": "美图推出的AI视频编辑和修复APP",
+      "url": "https://ai-bot.cn/app/10289.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_54210681_1710984628/256"
+    },
+    {
+      "name": "万兴播爆APP",
+      "description": "万兴科技推出的数字人和AI视频生成APP",
+      "url": "https://ai-bot.cn/app/10293.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c7/b6/a9c7b60d-7413-691b-4eed-5a63cfcad13c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "说得相机APP",
+      "description": "AI提词器和智能视频拍摄辅助工具",
+      "url": "https://ai-bot.cn/app/10933.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/82/f7/bd/82f7bd6c-8587-8945-db41-0ea3b14357b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "快影APP",
+      "description": "快手推出的智能视频剪辑和制作APP",
+      "url": "https://ai-bot.cn/app/10297.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_52401622_1710323350/256"
+    },
+    {
+      "name": "快推文APP",
+      "description": "AI将小说推文转换成漫画视频",
+      "url": "https://ai-bot.cn/app/11197.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/93/de/0893de8b-954f-cadb-202a-60e7698b5091/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "快剪辑APP",
+      "description": "360推出的AI视频剪辑APP",
+      "url": "https://ai-bot.cn/app/10294.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/2d/4b/e02d4b5d-745c-93dc-16db-a4e97987ddf1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "D-ID APP",
+      "description": "AI数字人口播视频生成软件",
+      "url": "https://ai-bot.cn/app/10672.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/45/a4/b645a4da-378a-65df-0fa9-c5c98ceaacea/AppIcon-0-0-1x_U007ephone-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "闪剪APP",
+      "description": "AI数字人视频生成和智能视频编辑APP",
+      "url": "https://ai-bot.cn/app/10292.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_54192338_1710128036/256"
+    },
+    {
+      "name": "绘影字幕APP",
+      "description": "视频字幕智能自动识别添加软件",
+      "url": "https://ai-bot.cn/app/10795.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/55/cb/fe55cb62-ebf4-02b3-8ccc-3f0764445366/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "硅语APP",
+      "description": "AI数字人克隆和短视频创作工具",
+      "url": "https://ai-bot.cn/app/10733.html?menu-id=66&mininav-id=10334",
+      "category": "AI视频制作",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/59/76/0359769e-4c8b-0fd9-2087-b8344bd9b9f4/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "夸克APP",
+      "description": "阿里巴巴旗下的智能搜索应用和浏览器APP",
+      "url": "https://ai-bot.cn/app/10365.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/7f/87/d17f873d-35e5-c7b2-a317-5534dbbfed54/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.webp"
+    },
+    {
+      "name": "天工AI",
+      "description": "昆仑万维推出的大模型助手和AI搜索引擎",
+      "url": "https://ai-bot.cn/app/10310.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ff/11/aeff11e6-5a54-cd52-c1a8-0a8ee1b20169/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Perplexity APP",
+      "description": "专业无广告的人工智能搜索引擎",
+      "url": "https://ai-bot.cn/app/10362.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/4a/27/494a2773-d39b-55ea-2d9a-6c41e25fa2f9/AppIcon-0-1x_U007epad-0-0-85-220-0.png/217x0w.webp"
+    },
+    {
+      "name": "360AI搜索APP",
+      "description": "360推出的基于大模型的新一代答案引擎",
+      "url": "https://ai-bot.cn/app/10364.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b5/0a/80b50a9f-1e65-d9e9-160e-8d92735ed8ae/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "简单搜索APP",
+      "description": "百度推出的简洁的AI互动式搜索引擎",
+      "url": "https://ai-bot.cn/app/10363.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/cb/75/47cb75fc-08c8-7224-9207-3644bc124bdc/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/230x0w.webp"
+    },
+    {
+      "name": "You.com APP",
+      "description": "AI对话式搜索引擎和网页浏览器",
+      "url": "https://ai-bot.cn/app/10473.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/2b/d7/e92bd773-c244-9fb1-4efc-16631c01e3ed/AppIcon_Developer-0-0-1x_U007epad-0-0-0-85-220.jpeg/246x0w.webp"
+    },
+    {
+      "name": "Arc Search APP",
+      "description": "Arc浏览器推出的移动端AI搜索APP",
+      "url": "https://ai-bot.cn/app/10404.html?menu-id=66&mininav-id=10334",
+      "category": "AI搜索引擎",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/20/c7/1a20c77a-73a1-57de-bae3-03ca36438b86/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "橙篇 APP",
+      "description": "百度推出的综合性跨模态AI创作工具",
+      "url": "https://ai-bot.cn/app/16410.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/75/1f/35751f41-57e8-cc19-59c8-2bc0c0f14cb8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/492x0w.webp"
+    },
+    {
+      "name": "光速写作APP",
+      "description": "作业帮推出的AI写作辅助软件",
+      "url": "https://ai-bot.cn/app/10357.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/05/29/f4052986-2e16-e5af-cace-0787fff6da48/AppIcon-1x_U007epad-0-0-85-220-0.png/492x0w.webp"
+    },
+    {
+      "name": "秘塔写作猫APP",
+      "description": "秘塔科技为汉语使用者打造的写作辅助软件",
+      "url": "https://ai-bot.cn/app/10358.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/ea/d9/eeead948-c869-890c-d437-b5f85d1bafe5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp"
+    },
+    {
+      "name": "印象笔记APP",
+      "description": "笔记软件和知识管理工具，用户的“第二大脑”",
+      "url": "https://ai-bot.cn/app/10457.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/10/b0/1710b025-2ab1-ff5f-1d79-7d364af40447/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "有道云笔记APP",
+      "description": "有道推出的智能笔记应用，内置AI创作辅助工具",
+      "url": "https://ai-bot.cn/app/10456.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/08/a9/6608a9d6-ffc4-7820-ccb0-1585114e9d62/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "彩云小梦APP",
+      "description": "AI文章故事和角色创作平台",
+      "url": "https://ai-bot.cn/app/10415.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/14/05/24/14052464-72ea-14cc-bcba-6dbe432ca85d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Verse APP",
+      "description": "全平台覆盖的新一代AI写作生成工具",
+      "url": "https://ai-bot.cn/app/10418.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/cb/c6/eecbc61e-8b10-43c7-7bdf-a0234650eb95/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "FlowUs息流APP",
+      "description": "AI写作+笔记+知识库+文档协作的一体化创作平台",
+      "url": "https://ai-bot.cn/app/10766.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/67/8e/06678ead-5438-1325-140d-5436ddb95af8/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "火龙果写作APP",
+      "description": "智能写作辅助工具，提供错别字纠错、校对、论文学术改写、查重降重等功能",
+      "url": "https://ai-bot.cn/app/10359.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/d6/a0/80d6a0e2-2317-e62f-2e70-ae296a3ce5da/AppIconWriter-0-1x_U007epad-0-0-0-85-220-0.jpeg/230x0w.webp"
+    },
+    {
+      "name": "百度文库APP",
+      "description": "一站式AI内容创作和文档资料平台",
+      "url": "https://ai-bot.cn/app/10934.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5a/12/f35a1210-4c5a-ee1c-8a67-79e755de000b/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "悟智写作APP",
+      "description": "易开即用的AI写作平台",
+      "url": "https://ai-bot.cn/app/10360.html?menu-id=66&mininav-id=10334",
+      "category": "AI写作助手",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/22/fa/3122fa2a-3769-6e0d-072b-7c294668e04d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"
+    },
+    {
+      "name": "夸克扫描王APP",
+      "description": "夸克官方推出的文档识别和高效处理APP",
+      "url": "https://ai-bot.cn/app/10301.html?menu-id=66&mininav-id=10334",
+      "category": "AI扫描识别",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/c6/31/29c631f9-b108-933a-9e1d-4299f4f0bc59/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "识花君APP",
+      "description": "多功能多用途的智能识别工具",
+      "url": "https://ai-bot.cn/app/10304.html?menu-id=66&mininav-id=10334",
+      "category": "AI扫描识别",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4c/52/95/4c52955b-2d88-0684-3d6a-8ebf6f9a2bf7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "扫描全能王APP",
+      "description": "智能文档扫描和OCR文字识别APP",
+      "url": "https://ai-bot.cn/app/10300.html?menu-id=66&mininav-id=10334",
+      "category": "AI扫描识别",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/48/ad/3d48adef-3a71-c75c-ef24-2c62002db335/AppIconLite-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "布丁扫描APP",
+      "description": "专业纯净的文档扫描识别软件",
+      "url": "https://ai-bot.cn/app/10302.html?menu-id=66&mininav-id=10334",
+      "category": "AI扫描识别",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/c4/c6/6ac4c6cd-02e5-4141-bc13-ce4188ff6b36/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "形色APP",
+      "description": "人工智能识别花草植物",
+      "url": "https://ai-bot.cn/app/10299.html?menu-id=66&mininav-id=10334",
+      "category": "AI扫描识别",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/fe/80/bcfe808f-2c2f-7cf5-5778-67a4dc098178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp"
+    },
+    {
+      "name": "白描APP",
+      "description": "简单易用的OCR文字识别和文件扫描软件",
+      "url": "https://ai-bot.cn/app/10303.html?menu-id=66&mininav-id=10334",
+      "category": "AI扫描识别",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_52575445_1695378250/256"
+    },
+    {
+      "name": "讯飞配音APP",
+      "description": "科大讯飞推出的一款专业配音软件",
+      "url": "https://ai-bot.cn/app/10351.html?menu-id=66&mininav-id=10334",
+      "category": "AI配音软件",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_42348563_1703747614/256"
+    },
+    {
+      "name": "NaturalReader APP",
+      "description": "人工智能文本转语音软件",
+      "url": "https://ai-bot.cn/app/10349.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/58/41/db584186-182a-dcf3-87cb-b6949ce526a0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/460x0w.webp"
+    },
+    {
+      "name": "和弦派APP",
+      "description": "AI音乐歌曲创作应用",
+      "url": "https://ai-bot.cn/app/12849.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/19/61/651961c4-a778-5fe3-545c-b28a8b908ddf/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "魔音工坊APP",
+      "description": "出门问问推出的一款专业的AI配音软件",
+      "url": "https://ai-bot.cn/app/10307.html?menu-id=66&mininav-id=10334",
+      "category": "AI配音软件",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/b2/aa/8cb2aaec-0d5a-9cbb-fd6a-8b4143c5afcf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "歌歌AI写歌APP",
+      "description": "AI音乐和歌曲生成APP",
+      "url": "https://ai-bot.cn/app/11800.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/60/b6/7160b6cc-8c80-680e-ad1c-f51adbc835d7/AppIcon-0-0-1x_U007ephone-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "讯飞语记APP",
+      "description": "科大讯飞推出的智能语音输入云笔记应用",
+      "url": "https://ai-bot.cn/app/10345.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_12121746_1711436868/256"
+    },
+    {
+      "name": "悦音配音APP",
+      "description": "AI+真人配音平台",
+      "url": "https://ai-bot.cn/app/11047.html?menu-id=66&mininav-id=10334",
+      "category": "AI配音软件",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/c8/28/30c828ad-3b1a-8c92-1002-cae40957d8b6/AppIcon-1x_U007emarketing-0-5-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "布谷鸟配音APP",
+      "description": "专注配音领域的手机智能配音软件",
+      "url": "https://ai-bot.cn/app/10346.html?menu-id=66&mininav-id=10334",
+      "category": "AI配音软件",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://pp.myapp.com/ma_icon/0/icon_54229204_1709885518/256"
+    },
+    {
+      "name": "Lightcast APP",
+      "description": "AI播客转文字APP",
+      "url": "https://ai-bot.cn/app/10347.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/30/24/f2/3024f230-0aff-b39a-6d81-442725b9cdf8/AppIcon-0-0-85-220-0-0-4-0-2x.png/217x0w.webp"
+    },
+    {
+      "name": "Notta APP",
+      "description": "AI语音转文字的效率工具",
+      "url": "https://ai-bot.cn/app/10464.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/55/0c/cb550ceb-c59f-c154-00e8-e0f7bee8bdcb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "讯飞听见APP",
+      "description": "科大讯飞推出的语音转换文字手机录音软件",
+      "url": "https://ai-bot.cn/app/10306.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ed/5d/dded5d47-4445-d6a7-a4cc-5252c98df4c1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "闪念贝壳APP",
+      "description": "AI驱动的智能语音笔记应用",
+      "url": "https://ai-bot.cn/app/14534.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/e6/52/2ce6524d-0217-ac03-f363-01a7ac6c264d/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-sRGB-85-220.png/492x0w.webp"
+    },
+    {
+      "name": "ElevenLabs Reader App",
+      "description": "ElevenLabs推出的AI文本转语音应用",
+      "url": "https://ai-bot.cn/app/13845.html?menu-id=66&mininav-id=10334",
+      "category": "AI语音转录",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/ae/57/5aae578e-7ca0-e608-eba1-f0cdfe8a832e/AppIcon-Prod-0-0-1x_U007emarketing-0-10-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "讯飞同传APP",
+      "description": "科大讯飞推出的AI同声传译及实时字幕翻译软件",
+      "url": "https://ai-bot.cn/app/10388.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1f/9a/041f9ae9-7863-ad07-1c88-5bd944e46c94/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "DeepL翻译APP",
+      "description": "高准确性的AI翻译软件",
+      "url": "https://ai-bot.cn/app/10855.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/d0/bd/51d0bd28-9009-1c87-20b2-108acea86e7d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Google翻译APP",
+      "description": "谷歌公司开发的多语言翻译工具",
+      "url": "https://ai-bot.cn/app/10385.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/13/53/2b1353d3-1449-11dc-0193-60ed0502218e/logo_translate_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "腾讯翻译君APP",
+      "description": "腾讯推出的时会话翻译软件",
+      "url": "https://ai-bot.cn/app/10387.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/84/ef/de84ef43-1a19-8c7c-49d9-dc61c87d5a44/AppIconRelease-1x_U007emarketing-0-4-0-0-85-220-0.png/217x0w.webp"
+    },
+    {
+      "name": "网易有道词典APP",
+      "description": "网易有道推出的多语言词典，内置全球发音",
+      "url": "https://ai-bot.cn/app/10386.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/d9/28/6ed9285f-6684-6ae9-7db0-511a83a7048d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/217x0w.webp"
+    },
+    {
+      "name": "百度翻译APP",
+      "description": "百度推出的AI翻译软件",
+      "url": "https://ai-bot.cn/app/10382.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/14/d6/ae/14d6ae34-0360-f43b-a25b-4a468818c812/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "有道翻译官APP",
+      "description": "网易有道推出的支持107种语言的翻译软件",
+      "url": "https://ai-bot.cn/app/10383.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/ae/48/51ae48fe-ddf8-1eef-eb12-8f6b1dbf16b7/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "微软翻译APP",
+      "description": "微软公司开发的多语言翻译工具",
+      "url": "https://ai-bot.cn/app/10384.html?menu-id=66&mininav-id=10334",
+      "category": "AI语言翻译",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/42/ef/5442ef87-a816-4e47-d04d-003fc9f2b93a/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/246x0w.webp"
+    },
+    {
+      "name": "豆包爱学APP",
+      "description": "字节跳动旗下的大力教育推出的AI学习辅助平台",
+      "url": "https://ai-bot.cn/app/10466.html?menu-id=66&mininav-id=10334",
+      "category": "AI教育学习",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/b0/51/30b0515b-7211-b6dd-3ff1-ffe16924e03b/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/492x0w.webp"
+    },
+    {
+      "name": "Gauth APP",
+      "description": "字节在海外推出的AI学习助手，拍照识别解决学习问题",
+      "url": "https://ai-bot.cn/app/10465.html?menu-id=66&mininav-id=10334",
+      "category": "AI教育学习",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/04/0d/32040d78-dd46-f656-e41c-aa26e4ae3d76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "星火语伴APP",
+      "description": "科大讯飞推出的AI英语学习辅助应用",
+      "url": "https://ai-bot.cn/app/10469.html?menu-id=66&mininav-id=10334",
+      "category": "AI教育学习",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c1/ff/90/c1ff90f4-9f08-7296-f336-7e934c9a087e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"
+    },
+    {
+      "name": "新述口语APP",
+      "description": "面向英语爱好者的AI英语口语练习应用",
+      "url": "https://ai-bot.cn/app/10471.html?menu-id=66&mininav-id=10334",
+      "category": "AI教育学习",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/e9/55/d0e95565-2265-9191-dc2b-f22a2d3e8838/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "Hi Echo APP",
+      "description": "网易有道推出的虚拟AI英语口语教练",
+      "url": "https://ai-bot.cn/app/10468.html?menu-id=66&mininav-id=10334",
+      "category": "AI教育学习",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/c9/7c/59c97cce-9f7c-007b-33e0-f58e8da5752b/AppIcon-1x_U007ephone-0-10-0-85-220.png/246x0w.webp"
+    },
+    {
+      "name": "海豚AI学APP",
+      "description": "猿辅导旗下的中小学生智能学习产品",
+      "url": "https://ai-bot.cn/app/10470.html?menu-id=66&mininav-id=10334",
+      "category": "AI教育学习",
+      "crawl_time": "2025-02-20 22:09:48",
+      "views": "0",
+      "likes": "0",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/fc/56/9ffc56fb-04b1-3519-af03-724b6491a12e/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/246x0w.webp"
+    }
+  ]
+}

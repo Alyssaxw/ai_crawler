@@ -1,0 +1,32 @@
+2025-02-20 21:47:10,880 - INFO - 总页数: 1
+2025-02-20 21:47:11,906 - INFO - 正在爬取第 1 页: https://ai-bot.cn
+2025-02-20 21:47:13,039 - ERROR - 页面 https://ai-bot.cn 格式无效
+2025-02-20 21:47:13,039 - INFO - 成功爬取 0/1 页
+2025-02-20 21:47:13,040 - ERROR - 未获取到任何工具信息
+2025-02-20 21:48:58,741 - INFO - 总页数: 1
+2025-02-20 21:49:00,942 - INFO - 正在爬取第 1 页: https://ai-bot.cn
+2025-02-20 21:49:06,155 - ERROR - 页面 https://ai-bot.cn 格式无效
+2025-02-20 21:49:06,155 - INFO - 成功爬取 0/1 页
+2025-02-20 21:49:06,155 - ERROR - 未获取到任何工具信息
+2025-02-20 21:54:36,826 - INFO - 总页数: 1
+2025-02-20 21:54:36,826 - ERROR - 未获取到任何工具信息
+2025-02-20 21:55:48,933 - INFO - 总页数: 1
+2025-02-20 21:55:48,934 - ERROR - 未获取到任何工具信息
+2025-02-20 21:57:00,195 - INFO - 总页数: 1
+2025-02-20 21:57:00,195 - ERROR - 未获取到任何工具信息
+2025-02-20 22:08:34,396 - DEBUG - Using selector: EpollSelector
+2025-02-20 22:08:34,397 - DEBUG - 请求头: {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'Accept-Language': 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Referer': 'https://ai-bot.cn/', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-User': '?1', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15'}
+2025-02-20 22:08:35,980 - DEBUG - 成功获取页面内容，长度: 322924
+2025-02-20 22:08:35,981 - DEBUG - 页面内容已保存到debug_page.html
+2025-02-20 22:08:36,065 - DEBUG - 首页格式无效
+2025-02-20 22:08:36,172 - INFO - 总页数: 1
+2025-02-20 22:08:36,172 - ERROR - 未获取到任何工具信息
+2025-02-20 22:09:46,188 - DEBUG - Using selector: EpollSelector
+2025-02-20 22:09:46,189 - DEBUG - 请求头: {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'Accept-Language': 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Referer': 'https://ai-bot.cn/', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-User': '?1', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0'}
+2025-02-20 22:09:48,000 - DEBUG - 成功获取页面内容，长度: 322924
+2025-02-20 22:09:48,002 - DEBUG - 页面内容已保存到debug_page.html
+2025-02-20 22:09:48,144 - DEBUG - 首页格式有效
+2025-02-20 22:09:48,285 - INFO - 成功解析首页 139 个工具
+2025-02-20 22:09:48,387 - INFO - 总页数: 1
+2025-02-20 22:09:48,390 - INFO - 数据已保存到: data/output/ai_tools_20250220_220948.json
+2025-02-20 22:09:48,390 - INFO - 共收集了 139 个AI工具信息
